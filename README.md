@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zeel Navadiya
 - 👀 I’m interested in Web Designing.
 - 🌱 I’m currently learning Web Designing. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on http://zeel-navadiya.github.io/designer-portfolio.github.io/
 - 📫 How to reach me ...
 
 <!---
